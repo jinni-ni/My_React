@@ -1,5 +1,5 @@
 import React from "react";
-import EventPractice from "./EventPractice2";
+import EventPractice from "./EventPractice3";
 
 const App = () => {
   return <EventPractice />;
